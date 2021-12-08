@@ -13,7 +13,7 @@ variable "netListName" {
 }
 variable "email" {
   type = list
-  default = ["djha@akamai.com"]
+  default = ["xxx@yyy.com"]
 }
 variable "type" {
   type = string
